@@ -1,0 +1,44 @@
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.main-logo {
+  display: block;
+  margin: 80px auto 20px auto;
+}
+
+.search-box {
+  display: block;
+  margin: 0 auto 20px auto;
+  width: 600px;
+  padding: 10px 10px;
+  border: 1px solid #c1c1c1;
+  box-shadow: 1px 1px #a1a1a1;
+}
+
+.container-buttons {
+  text-align: center;
+}
+
+.action-button {
+  border: 0;
+  padding: 10px 20px;
+  background: #f2f2f2;;
+  color: #757575;
+  font-weight: bolder;
+}
+
+.action-button:hover {
+  background: : #f8f8f8;
+  color: #222;
+}
+
+.container-language {
+  margin-top: 20px;
+  text-align: center;
+}
